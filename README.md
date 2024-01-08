@@ -1,1 +1,1 @@
-This is a sample phython code file for looping
+This is a sample python code file for looping.
